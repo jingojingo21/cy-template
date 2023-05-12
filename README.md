@@ -8,6 +8,7 @@ After forking this project in Github, run these commands:
 
 ## clone this repo to a local directory
 
+gh repo clone jingojingo21/cy-template
 
 ## cd into the cloned repo
 cd cy-template
