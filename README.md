@@ -7,7 +7,7 @@ If you want to experiment with running this project in Continuous Integration, y
 After forking this project in Github, run these commands:
 
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-kitchensink.git
+
 
 ## cd into the cloned repo
 cd cy-template
