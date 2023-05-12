@@ -29,5 +29,7 @@ You should see the Kitchen Sink App up and running. We are now ready to run Cypr
 npm run cy:open
   or 
 npx cypress open
+  
+  
 shortcut: you can use command npm run local:open that uses start-server-and-test to start local server and open Cypress. When you close Cypress, the local server is stopped automatically. Similarly you can use npm run local:run to start the server, run Cypress tests headlessly and close the server.
 
